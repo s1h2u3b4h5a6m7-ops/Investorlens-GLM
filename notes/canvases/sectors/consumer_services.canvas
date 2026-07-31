@@ -1,0 +1,30 @@
+{
+  "edges": [
+    {
+      "fromNode": "sctr_5d1ba6c7b1ba",
+      "id": "edge_f97ee1267896",
+      "label": "contains",
+      "toNode": "isin_fa354a11e529"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 120,
+      "id": "sctr_5d1ba6c7b1ba",
+      "text": "# Consumer Services\n\n1 companies",
+      "type": "text",
+      "width": 500,
+      "x": 950,
+      "y": 0
+    },
+    {
+      "file": "notes/companies/zomato.md",
+      "height": 250,
+      "id": "isin_fa354a11e529",
+      "type": "file",
+      "width": 250,
+      "x": 0,
+      "y": 170
+    }
+  ]
+}

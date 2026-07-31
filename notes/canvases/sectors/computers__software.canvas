@@ -1,0 +1,45 @@
+{
+  "edges": [
+    {
+      "fromNode": "sctr_90d01432b7f2",
+      "id": "edge_08f2b8987d21",
+      "label": "contains",
+      "toNode": "isin_671c34099ed6"
+    },
+    {
+      "fromNode": "sctr_90d01432b7f2",
+      "id": "edge_5e88ebc2c86f",
+      "label": "contains",
+      "toNode": "isin_4e9ce671371e"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 120,
+      "id": "sctr_90d01432b7f2",
+      "text": "# Computers - Software\n\n2 companies",
+      "type": "text",
+      "width": 500,
+      "x": 950,
+      "y": 0
+    },
+    {
+      "file": "notes/companies/infy.md",
+      "height": 250,
+      "id": "isin_671c34099ed6",
+      "type": "file",
+      "width": 250,
+      "x": 0,
+      "y": 170
+    },
+    {
+      "file": "notes/companies/tcs.md",
+      "height": 250,
+      "id": "isin_4e9ce671371e",
+      "type": "file",
+      "width": 250,
+      "x": 300,
+      "y": 170
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "edges": [
+    {
+      "fromNode": "sctr_f1be2edd5e7a",
+      "id": "edge_8ad399f87a76",
+      "label": "contains",
+      "toNode": "isin_5226c509ea14"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 120,
+      "id": "sctr_f1be2edd5e7a",
+      "text": "# Iron & Steel Products\n\n1 companies",
+      "type": "text",
+      "width": 500,
+      "x": 950,
+      "y": 0
+    },
+    {
+      "file": "notes/companies/jsw_steel.md",
+      "height": 250,
+      "id": "isin_5226c509ea14",
+      "type": "file",
+      "width": 250,
+      "x": 0,
+      "y": 170
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "edges": [
+    {
+      "fromNode": "sctr_9117dadbe07b",
+      "id": "edge_eb333db2569a",
+      "label": "contains",
+      "toNode": "isin_4b938dc3a59d"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 120,
+      "id": "sctr_9117dadbe07b",
+      "text": "# Pharmaceuticals\n\n1 companies",
+      "type": "text",
+      "width": 500,
+      "x": 950,
+      "y": 0
+    },
+    {
+      "file": "notes/companies/sunpharma.md",
+      "height": 250,
+      "id": "isin_4b938dc3a59d",
+      "type": "file",
+      "width": 250,
+      "x": 0,
+      "y": 170
+    }
+  ]
+}

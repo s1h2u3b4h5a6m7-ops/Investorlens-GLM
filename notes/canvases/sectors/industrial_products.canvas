@@ -1,0 +1,30 @@
+{
+  "edges": [
+    {
+      "fromNode": "sctr_94a4dc072645",
+      "id": "edge_cadc0f5980a8",
+      "label": "contains",
+      "toNode": "isin_ba9992602bb2"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 120,
+      "id": "sctr_94a4dc072645",
+      "text": "# Industrial Products\n\n1 companies",
+      "type": "text",
+      "width": 500,
+      "x": 950,
+      "y": 0
+    },
+    {
+      "file": "notes/companies/siemens.md",
+      "height": 250,
+      "id": "isin_ba9992602bb2",
+      "type": "file",
+      "width": 250,
+      "x": 0,
+      "y": 170
+    }
+  ]
+}

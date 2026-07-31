@@ -1,0 +1,30 @@
+{
+  "edges": [
+    {
+      "fromNode": "sctr_5601eafcc092",
+      "id": "edge_7ca28eeaed03",
+      "label": "contains",
+      "toNode": "isin_b1902bd5e7d7"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 120,
+      "id": "sctr_5601eafcc092",
+      "text": "# Banks\n\n1 companies",
+      "type": "text",
+      "width": 500,
+      "x": 950,
+      "y": 0
+    },
+    {
+      "file": "notes/companies/hdfcbank.md",
+      "height": 250,
+      "id": "isin_b1902bd5e7d7",
+      "type": "file",
+      "width": 250,
+      "x": 0,
+      "y": 170
+    }
+  ]
+}
