@@ -1,0 +1,2332 @@
+{
+  "edges": [
+    {
+      "data": {
+        "id": "edge_61e7cd28ca2f",
+        "label": "belongs to",
+        "source": "sec_4b938dc3a59d",
+        "target": "sctr_9117dadbe07b",
+        "type": "belongs_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ae505463ccca",
+        "label": "belongs to",
+        "source": "sec_4e9ce671371e",
+        "target": "sctr_440f0c400ddd",
+        "type": "belongs_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_9fd0c0282af1",
+        "label": "belongs to",
+        "source": "sec_671c34099ed6",
+        "target": "sctr_440f0c400ddd",
+        "type": "belongs_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7d3e852565c1",
+        "label": "belongs to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "sctr_f4233fe3ee9e",
+        "type": "belongs_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_2dd011733f2a",
+        "label": "belongs to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "sctr_5601eafcc092",
+        "type": "belongs_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d1e268f66bc4",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_06d9daf6bf6d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_383c01155a4d",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_26bab0d135a6",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_041af0a2338b",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_2a77bf51afc4",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7444271129f8",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_2b090d6dafe8",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_c478edb1c36e",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_4799e9a3356b",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d4f8396fdf43",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_518857e8de2d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0956c9e73e66",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_7e0379d5d487",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d09790693512",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_8b1a4ae12885",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_2700f7df5c33",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_8bf9a7c3caea",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_02c533452116",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_9857150c0311",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0677213c4648",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_9e9abf48b089",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8973aa1a2ee2",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_a4404b52826a",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_bb75d5beef2e",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_adbb79dc8fd1",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_77f2d84702d6",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_ae85dd44228f",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_001e52dee569",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_cbf1250fb5da",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_38eea9d43a16",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_d62d5911de09",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_75037285e026",
+        "label": "exposed to",
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_e405ce3760c7",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8e3df93f57e0",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_06d9daf6bf6d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d4a15f9e5c4c",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_26bab0d135a6",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_cc2ffa0f935e",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_2a77bf51afc4",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_90ea59392d46",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_2b090d6dafe8",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_e249b3e97db3",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_4799e9a3356b",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_9691ab00e91a",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_518857e8de2d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5a49285cd3e6",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_7e0379d5d487",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d7abb3890ce8",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_8b1a4ae12885",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_080fe6ab2cb3",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_8bf9a7c3caea",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_116ce46374a9",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_9857150c0311",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7757ec68d054",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_9e9abf48b089",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_1f372766d79e",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_a4404b52826a",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_11494e2cd9e2",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_adbb79dc8fd1",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8062e50857f7",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_ae85dd44228f",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_541ccee39cb4",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_cbf1250fb5da",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_6d1a34503c52",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_d62d5911de09",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d5904c6d33b4",
+        "label": "exposed to",
+        "source": "sec_4e9ce671371e",
+        "target": "drv_e405ce3760c7",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_852ad1973520",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_06d9daf6bf6d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_c64138192828",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_26bab0d135a6",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ef9a45120374",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_2a77bf51afc4",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_6115998434d3",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_2b090d6dafe8",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_da6cca99add6",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_4799e9a3356b",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_74924ba6a688",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_518857e8de2d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0e4e5185c81c",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_7e0379d5d487",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0996f4b66500",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_8b1a4ae12885",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_9386dd3a4450",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_8bf9a7c3caea",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7151a08eb0e4",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_9857150c0311",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_dc9e2ce1f237",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_9e9abf48b089",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_05e89cefe4c0",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_a4404b52826a",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_13bc59e25c91",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_adbb79dc8fd1",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_32d5d4eb035e",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_ae85dd44228f",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_cb8fee8d6cb3",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_cbf1250fb5da",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7c41684b7c1d",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_d62d5911de09",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_2905c248c5eb",
+        "label": "exposed to",
+        "source": "sec_671c34099ed6",
+        "target": "drv_e405ce3760c7",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ae7ed067f388",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_06d9daf6bf6d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0e5ff46507b0",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_26bab0d135a6",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_b520cfdfa056",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_2a77bf51afc4",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8bd5571a850f",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_2b090d6dafe8",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_31af25112719",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_4799e9a3356b",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_b7447439b226",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_518857e8de2d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_e75e876bcaa1",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_7e0379d5d487",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8690e43860f3",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_8b1a4ae12885",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4d12d88f5078",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_8bf9a7c3caea",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d42b5c08dc32",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_9857150c0311",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_caec8b330739",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_9e9abf48b089",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_a389e6acbbb3",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_a4404b52826a",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_a5950ed90500",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_adbb79dc8fd1",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5f5c816772bc",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_ae85dd44228f",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_dd425bbbbabd",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_cbf1250fb5da",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_6fe09c828bf5",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_d62d5911de09",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_fd37eec055d1",
+        "label": "exposed to",
+        "source": "sec_7aa6ee15c6fa",
+        "target": "drv_e405ce3760c7",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_a6cabd5d045b",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_06d9daf6bf6d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0fcb9953c4ef",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_26bab0d135a6",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_1c12903c93b4",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_2a77bf51afc4",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_eabaa2af3999",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_2b090d6dafe8",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_aae408997e83",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_4799e9a3356b",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_504cb978d307",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_518857e8de2d",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ba73d056547c",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_7e0379d5d487",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_761c6214f078",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_8b1a4ae12885",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_854165048926",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_8bf9a7c3caea",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ef7a1f1dc50d",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_9857150c0311",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_1ea8540476d3",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_9e9abf48b089",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_04e158141085",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_a4404b52826a",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_283455b9fabd",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_adbb79dc8fd1",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_888c2f44f897",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_ae85dd44228f",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ad4287ecdacc",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_cbf1250fb5da",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d282f2ceae92",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_d62d5911de09",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5fd9a9d7cf66",
+        "label": "exposed to",
+        "source": "sec_b1902bd5e7d7",
+        "target": "drv_e405ce3760c7",
+        "type": "exposed_to"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_05c600019970",
+        "label": "hurt by",
+        "magnitude": "Negative: coal/pet coke imports",
+        "magnitude_percent": null,
+        "source": "sec_9c54bf5ae110",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_05cc2635b192",
+        "label": "uses",
+        "magnitude": "Reinforcing filler; crude oil derivative",
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "rm_01b3ddb490cc",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0b1051fa68a3",
+        "label": "uses",
+        "magnitude": "Alternative fuel for kilns",
+        "magnitude_percent": null,
+        "source": "sec_9c54bf5ae110",
+        "target": "rm_ec0e2b1936e8",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_0ca03a200e69",
+        "label": "customer of",
+        "magnitude": "~40% of revenue (US market)",
+        "magnitude_percent": 40.0,
+        "source": "sec_4b938dc3a59d",
+        "target": "cust_7994df16a8cd",
+        "type": "customer_of",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_13d16adc685d",
+        "label": "depends on",
+        "magnitude": "Domestic NR sourcing",
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "sup_e527b82c48cc",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_14a5f523bf3e",
+        "label": "depends on",
+        "magnitude": "Primary coal supplier",
+        "magnitude_percent": null,
+        "source": "sec_9c54bf5ae110",
+        "target": "sup_8601448fc879",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_14be7db4534c",
+        "label": "produces",
+        "magnitude": "~70% of revenue",
+        "magnitude_percent": 70.0,
+        "source": "sec_2e08889973d9",
+        "target": "prod_412dfaca6329",
+        "type": "produces",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_186eb3449b46",
+        "label": "produces",
+        "magnitude": "Primary product",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "prod_bb58dfdc102e",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_1e1e571f9a4c",
+        "label": "depends on",
+        "magnitude": "Energy ~40% of cost",
+        "magnitude_percent": 40.0,
+        "source": "sctr_239d06c7d3e0",
+        "target": "rm_bc9bdfec595f",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_24360dc160fd",
+        "label": "uses",
+        "magnitude": "For radial tyres",
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "rm_80a22a4ad1aa",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_26e272bc89bd",
+        "label": "produces",
+        "magnitude": "Primary product",
+        "magnitude_percent": null,
+        "source": "sec_9c54bf5ae110",
+        "target": "prod_bb58dfdc102e",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_27a1a62cad4e",
+        "label": "depends on",
+        "magnitude": "Energy ~40% of cost",
+        "magnitude_percent": 40.0,
+        "source": "sec_9c54bf5ae110",
+        "target": "rm_bc9bdfec595f",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_29048557e5f8",
+        "label": "depends on",
+        "magnitude": "Indirect: synthetic rubber + carbon black are crude derivatives",
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "rm_b09c577bf2a4",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_29fca6625260",
+        "label": "depends on",
+        "magnitude": "Indirect: SR + carbon black are crude derivatives",
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "rm_b09c577bf2a4",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_2f05104e209c",
+        "label": "hurt by",
+        "magnitude": "Negative: KSM imports",
+        "magnitude_percent": null,
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_35a828ce7efb",
+        "label": "uses",
+        "magnitude": "Minor input",
+        "magnitude_percent": null,
+        "source": "sctr_9117dadbe07b",
+        "target": "rm_cd7777661edc",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_3acbb8dfa703",
+        "label": "uses",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "rm_4ecdeb046241",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_3b679478c83f",
+        "label": "uses",
+        "magnitude": "Crude oil derivative",
+        "magnitude_percent": null,
+        "source": "sctr_f7ce1287ef90",
+        "target": "rm_976ed4c93cb4",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_49bdb2074872",
+        "label": "customer of",
+        "magnitude": "~35% of demand",
+        "magnitude_percent": 35.0,
+        "source": "sec_9c54bf5ae110",
+        "target": "cust_abf78cd5f9ac",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4cdcb9c20beb",
+        "label": "customer of",
+        "magnitude": "~25% of revenue (domestic)",
+        "magnitude_percent": 25.0,
+        "source": "sec_4b938dc3a59d",
+        "target": "cust_6f6ac59d154d",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4d9e9ad7051c",
+        "label": "produces",
+        "magnitude": "Primary product",
+        "magnitude_percent": null,
+        "source": "sctr_9117dadbe07b",
+        "target": "prod_24bcf6878b40",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4f04ab4cc612",
+        "label": "hurt by",
+        "magnitude": "Negative: coal/pet coke imports",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4f9b1279148d",
+        "label": "depends on",
+        "magnitude": "~30% of RM cost",
+        "magnitude_percent": 30.0,
+        "source": "sec_24661d0dbed3",
+        "target": "rm_2f96b8c40bd3",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_4f9cae36e7e8",
+        "label": "hurt by",
+        "magnitude": "Negative: TiO2 imports",
+        "magnitude_percent": null,
+        "source": "sec_2e08889973d9",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_50521ee705ab",
+        "label": "depends on",
+        "magnitude": "Key KSM supplier",
+        "magnitude_percent": null,
+        "source": "sec_4b938dc3a59d",
+        "target": "sup_4a9682cf4c67",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_50a33bd81b2c",
+        "label": "produces",
+        "magnitude": "Value-added product",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "prod_b5f0fce095c6",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_57438db064ef",
+        "label": "uses",
+        "magnitude": "Captive limestone quarries",
+        "magnitude_percent": null,
+        "source": "sec_9c54bf5ae110",
+        "target": "rm_4bef8459616e",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_57b6f2774c48",
+        "label": "produces",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "prod_375cbbec4aa1",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_59826a17bf9d",
+        "label": "produces",
+        "magnitude": "~30% of industry revenue",
+        "magnitude_percent": 30.0,
+        "source": "sctr_f7ce1287ef90",
+        "target": "prod_4bf07fa4792a",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5a572c237440",
+        "label": "depends on",
+        "magnitude": "~22% of RM cost",
+        "magnitude_percent": 22.0,
+        "source": "sec_2e08889973d9",
+        "target": "rm_146f08f308ab",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5b8d6bde1441",
+        "label": "hurt by",
+        "magnitude": "Negative: TiO2 imports",
+        "magnitude_percent": null,
+        "source": "sctr_f7ce1287ef90",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5c5e20a67179",
+        "label": "produces",
+        "magnitude": "Primary revenue source",
+        "magnitude_percent": null,
+        "source": "sec_4b938dc3a59d",
+        "target": "prod_24bcf6878b40",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_5fd39c71e9b0",
+        "label": "competes with",
+        "magnitude": "Both compete in Indian tyre market",
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "sec_3b14bc04acf4",
+        "type": "competes_with",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_646bf8e6ff16",
+        "label": "uses",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "rm_01b3ddb490cc",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_664bb930e5db",
+        "label": "depends on",
+        "magnitude": "Primary TiO2 suppliers",
+        "magnitude_percent": null,
+        "source": "sec_2e08889973d9",
+        "target": "sup_162cfa809729",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_6ee481cfc59d",
+        "label": "hurt by",
+        "magnitude": "Negative: natural rubber imports",
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7016b4309fc7",
+        "label": "uses",
+        "magnitude": "Minor but specialty",
+        "magnitude_percent": null,
+        "source": "sctr_f7ce1287ef90",
+        "target": "rm_71666b2f1317",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_76a27955f9f1",
+        "label": "depends on",
+        "magnitude": "Indirect: TiO2, resins, solvents are crude derivatives (~50% of RM)",
+        "magnitude_percent": 50.0,
+        "source": "sctr_f7ce1287ef90",
+        "target": "rm_b09c577bf2a4",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_78ec88b1e5c2",
+        "label": "uses",
+        "magnitude": "Primary raw material (~1.5t per t cement)",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "rm_4bef8459616e",
+        "type": "uses",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7906cc6c748d",
+        "label": "uses",
+        "magnitude": "Primary input",
+        "magnitude_percent": 50.0,
+        "source": "sctr_9117dadbe07b",
+        "target": "rm_8669250e99a8",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7b919bcba81a",
+        "label": "produces",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "prod_6334cde9176d",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7c4b5c61bcfd",
+        "label": "uses",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sec_2e08889973d9",
+        "target": "rm_976ed4c93cb4",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_7d9070a8f803",
+        "label": "produces",
+        "magnitude": "API business for own use + external sale",
+        "magnitude_percent": null,
+        "source": "sec_4b938dc3a59d",
+        "target": "prod_fa7af8a0633f",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_809a07c48574",
+        "label": "produces",
+        "magnitude": "~30% of revenue",
+        "magnitude_percent": 30.0,
+        "source": "sec_2e08889973d9",
+        "target": "prod_4bf07fa4792a",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_840e1d3f13db",
+        "label": "hurt by",
+        "magnitude": "Negative: NR imports",
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "drv_ae85dd44228f",
+        "type": "hurt_by",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_883e4468f1e3",
+        "label": "produces",
+        "magnitude": "Some companies are API-focused",
+        "magnitude_percent": null,
+        "source": "sctr_9117dadbe07b",
+        "target": "prod_fa7af8a0633f",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8a3482a1c90b",
+        "label": "produces",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sec_24661d0dbed3",
+        "target": "prod_6334cde9176d",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_8ac9aeac741e",
+        "label": "uses",
+        "magnitude": "Alternative fuel; cheaper than coal",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "rm_ec0e2b1936e8",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_90fc2f72662d",
+        "label": "customer of",
+        "magnitude": "~70% of revenue",
+        "magnitude_percent": 70.0,
+        "source": "sec_2e08889973d9",
+        "target": "cust_58ab21aa10f6",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_94b00bc83ba2",
+        "label": "depends on",
+        "magnitude": "Imported from China",
+        "magnitude_percent": 60.0,
+        "source": "sec_4b938dc3a59d",
+        "target": "rm_df202fc5ac8d",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_9fa9084f55a5",
+        "label": "uses",
+        "magnitude": "3-5% of input",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "rm_4479b44520fe",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_a165140f7dc2",
+        "label": "uses",
+        "magnitude": "Minor input",
+        "magnitude_percent": null,
+        "source": "sctr_9117dadbe07b",
+        "target": "rm_aa7fa91c877c",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_a433de608b59",
+        "label": "uses",
+        "magnitude": "Derived from crude oil",
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "rm_4ecdeb046241",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_a7f13b0afb24",
+        "label": "uses",
+        "magnitude": "Primary input for formulations",
+        "magnitude_percent": 50.0,
+        "source": "sec_4b938dc3a59d",
+        "target": "rm_8669250e99a8",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_b2c3d0a399c3",
+        "label": "depends on",
+        "magnitude": "Indirect: ~50% of RM is crude-derived",
+        "magnitude_percent": 50.0,
+        "source": "sec_2e08889973d9",
+        "target": "rm_b09c577bf2a4",
+        "type": "depends_on",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_bbf672c9e5a1",
+        "label": "customer of",
+        "magnitude": "~15% export",
+        "magnitude_percent": 15.0,
+        "source": "sec_24661d0dbed3",
+        "target": "cust_e18f6b6f95d4",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_bd4bc3cd9879",
+        "label": "depends on",
+        "magnitude": "Import dependent on China (~70%)",
+        "magnitude_percent": 70.0,
+        "source": "sctr_9117dadbe07b",
+        "target": "rm_df202fc5ac8d",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_c0562c25aa7e",
+        "label": "produces",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "prod_59ace7d6c702",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_c0a75c86f9f9",
+        "label": "customer of",
+        "magnitude": "~30% OEM",
+        "magnitude_percent": 30.0,
+        "source": "sec_24661d0dbed3",
+        "target": "cust_6002e9b3248a",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_c4f07f1b619d",
+        "label": "uses",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sctr_f7ce1287ef90",
+        "target": "rm_c39c073ddfae",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_c7bea90dac05",
+        "label": "depends on",
+        "magnitude": "30-35% of raw material cost",
+        "magnitude_percent": 32.0,
+        "source": "sctr_f88dd224ea63",
+        "target": "rm_2f96b8c40bd3",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d046333e2ec3",
+        "label": "benefits from",
+        "magnitude": "Positive: export revenue (US generics)",
+        "magnitude_percent": null,
+        "source": "sctr_9117dadbe07b",
+        "target": "drv_ae85dd44228f",
+        "type": "benefits_from",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d3366b37610d",
+        "label": "uses",
+        "magnitude": "Binder; crude oil derivative",
+        "magnitude_percent": null,
+        "source": "sec_2e08889973d9",
+        "target": "rm_58a0d068cc5f",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_d769661afac3",
+        "label": "exposed to",
+        "magnitude": "Negative: API/KSM imports",
+        "magnitude_percent": null,
+        "source": "sctr_9117dadbe07b",
+        "target": "drv_ae85dd44228f",
+        "type": "exposed_to",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_de5913e10fdb",
+        "label": "produces",
+        "magnitude": null,
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "prod_375cbbec4aa1",
+        "type": "produces",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_df235451e458",
+        "label": "uses",
+        "magnitude": "For bias tyres",
+        "magnitude_percent": null,
+        "source": "sctr_f88dd224ea63",
+        "target": "rm_78b2af6f472d",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_e69df9e16568",
+        "label": "customer of",
+        "magnitude": "~55% replacement",
+        "magnitude_percent": 55.0,
+        "source": "sec_24661d0dbed3",
+        "target": "cust_5f8f7d005c5a",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ec4f6537e499",
+        "label": "competes with",
+        "magnitude": "Top 2 in decorative paints",
+        "magnitude_percent": null,
+        "source": "sec_2e08889973d9",
+        "target": "sec_715f10dd9baf",
+        "type": "competes_with",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ed991c336bbf",
+        "label": "produces",
+        "magnitude": "~70% of industry revenue",
+        "magnitude_percent": 70.0,
+        "source": "sctr_f7ce1287ef90",
+        "target": "prod_412dfaca6329",
+        "type": "produces",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_f2ff2eed4a91",
+        "label": "depends on",
+        "magnitude": "~20-25% of RM cost; largely imported",
+        "magnitude_percent": 22.0,
+        "source": "sctr_f7ce1287ef90",
+        "target": "rm_146f08f308ab",
+        "type": "depends_on",
+        "validation_status": "weakly_supported"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_f6f838047ac6",
+        "label": "uses",
+        "magnitude": "Binder; crude oil derivative",
+        "magnitude_percent": null,
+        "source": "sctr_f7ce1287ef90",
+        "target": "rm_58a0d068cc5f",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_f96e559d7476",
+        "label": "benefits from",
+        "magnitude": "Positive: US export revenue",
+        "magnitude_percent": null,
+        "source": "sec_4b938dc3a59d",
+        "target": "drv_ae85dd44228f",
+        "type": "benefits_from",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_f9f7039213d4",
+        "label": "customer of",
+        "magnitude": "~55% of demand",
+        "magnitude_percent": 55.0,
+        "source": "sec_9c54bf5ae110",
+        "target": "cust_27da4341b5e5",
+        "type": "customer_of",
+        "validation_status": "hypothesized"
+      }
+    },
+    {
+      "data": {
+        "id": "edge_ff7886dedc35",
+        "label": "uses",
+        "magnitude": "Supplementary cementitious material",
+        "magnitude_percent": null,
+        "source": "sctr_239d06c7d3e0",
+        "target": "rm_55fdddaa4c42",
+        "type": "uses",
+        "validation_status": "hypothesized"
+      }
+    }
+  ],
+  "metadata": {
+    "company_count": 5,
+    "data_status": "Phase 3 — value-chain seed data (hypothesized). Milestone 3.2 will validate with document evidence.",
+    "edge_count": 164,
+    "generated_at": "2024-09-30T18:30:00+00:00",
+    "macro_driver_count": 17,
+    "node_count": 69,
+    "product_count": 9,
+    "raw_material_count": 20,
+    "sector_count": 4,
+    "sectors": [
+      "Banks",
+      "Computers - Software",
+      "Pharmaceuticals",
+      "Refineries"
+    ],
+    "value_chain_edge_count": 74
+  },
+  "nodes": [
+    {
+      "data": {
+        "company_count": 1,
+        "id": "sctr_9117dadbe07b",
+        "label": "Pharmaceuticals",
+        "type": "sector"
+      }
+    },
+    {
+      "data": {
+        "bse_code": "524715",
+        "company_name": "Sun Pharmaceutical Industries Limited",
+        "corporate_actions_count": 1,
+        "exchange": "NSE+BSE",
+        "id": "sec_4b938dc3a59d",
+        "isin": "INE044A01026",
+        "label": "SUNPHARMA",
+        "nse_symbol": "SUNPHARMA",
+        "observations_count": 7,
+        "sector": "Pharmaceuticals",
+        "type": "company"
+      }
+    },
+    {
+      "data": {
+        "company_count": 2,
+        "id": "sctr_440f0c400ddd",
+        "label": "Computers - Software",
+        "type": "sector"
+      }
+    },
+    {
+      "data": {
+        "bse_code": "532540",
+        "company_name": "Tata Consultancy Services Limited",
+        "corporate_actions_count": 2,
+        "exchange": "NSE+BSE",
+        "id": "sec_4e9ce671371e",
+        "isin": "INE467B01029",
+        "label": "TCS",
+        "nse_symbol": "TCS",
+        "observations_count": 7,
+        "sector": "Computers - Software",
+        "type": "company"
+      }
+    },
+    {
+      "data": {
+        "bse_code": "500209",
+        "company_name": "Infosys Limited",
+        "corporate_actions_count": 2,
+        "exchange": "NSE+BSE",
+        "id": "sec_671c34099ed6",
+        "isin": "INE009A01021",
+        "label": "INFY",
+        "nse_symbol": "INFY",
+        "observations_count": 7,
+        "sector": "Computers - Software",
+        "type": "company"
+      }
+    },
+    {
+      "data": {
+        "company_count": 1,
+        "id": "sctr_f4233fe3ee9e",
+        "label": "Refineries",
+        "type": "sector"
+      }
+    },
+    {
+      "data": {
+        "bse_code": "500325",
+        "company_name": "Reliance Industries Limited",
+        "corporate_actions_count": 2,
+        "exchange": "NSE+BSE",
+        "id": "sec_7aa6ee15c6fa",
+        "isin": "INE002A01018",
+        "label": "RELIANCE",
+        "nse_symbol": "RELIANCE",
+        "observations_count": 41,
+        "sector": "Refineries",
+        "type": "company"
+      }
+    },
+    {
+      "data": {
+        "company_count": 1,
+        "id": "sctr_5601eafcc092",
+        "label": "Banks",
+        "type": "sector"
+      }
+    },
+    {
+      "data": {
+        "bse_code": "500180",
+        "company_name": "HDFC Bank Limited",
+        "corporate_actions_count": 1,
+        "exchange": "NSE+BSE",
+        "id": "sec_b1902bd5e7d7",
+        "isin": "INE040A01034",
+        "label": "HDFCBANK",
+        "nse_symbol": "HDFCBANK",
+        "observations_count": 7,
+        "sector": "Banks",
+        "type": "company"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_06d9daf6bf6d",
+        "label": "MSF Rate",
+        "slug": "msf_rate",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Inflation",
+        "id": "drv_26bab0d135a6",
+        "label": "CPI Urban YoY",
+        "slug": "cpi_urban_yoy",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_2a77bf51afc4",
+        "label": "SDF Rate",
+        "slug": "sdf_rate",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_2b090d6dafe8",
+        "label": "CRR",
+        "slug": "crr",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "FX Rate",
+        "id": "drv_4799e9a3356b",
+        "label": "EUR/INR",
+        "slug": "fx_eur_inr",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_518857e8de2d",
+        "label": "Reverse Repo Rate",
+        "slug": "fixed_reverse_repo_rate",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_7e0379d5d487",
+        "label": "SLR",
+        "slug": "slr",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Inflation",
+        "id": "drv_8b1a4ae12885",
+        "label": "CPI Combined YoY",
+        "slug": "cpi_combined_yoy",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_8bf9a7c3caea",
+        "label": "Bank Rate",
+        "slug": "bank_rate",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Inflation",
+        "id": "drv_9857150c0311",
+        "label": "CPI Rural YoY",
+        "slug": "cpi_rural_yoy",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Inflation",
+        "id": "drv_9e9abf48b089",
+        "label": "CPI Urban Index",
+        "slug": "cpi_urban_index",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Interest Rate",
+        "id": "drv_a4404b52826a",
+        "label": "Policy Repo Rate",
+        "slug": "policy_repo_rate",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "FX Rate",
+        "id": "drv_adbb79dc8fd1",
+        "label": "JPY/INR",
+        "slug": "fx_jpy_inr",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "FX Rate",
+        "id": "drv_ae85dd44228f",
+        "label": "USD/INR",
+        "slug": "fx_usd_inr",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "FX Rate",
+        "id": "drv_cbf1250fb5da",
+        "label": "GBP/INR",
+        "slug": "fx_gbp_inr",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Inflation",
+        "id": "drv_d62d5911de09",
+        "label": "CPI Rural Index",
+        "slug": "cpi_rural_index",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "Inflation",
+        "id": "drv_e405ce3760c7",
+        "label": "CPI Combined Index",
+        "slug": "cpi_combined_index",
+        "type": "macro_driver"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_01b3ddb490cc",
+        "label": "Carbon Black",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "energy",
+        "id": "rm_ec0e2b1936e8",
+        "label": "Pet Coke",
+        "type": "raw_material",
+        "unit": "tonne"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_7994df16a8cd",
+        "label": "cust_7994df16a8cd",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "id": "sup_e527b82c48cc",
+        "label": "sup_e527b82c48cc",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "id": "sup_8601448fc879",
+        "label": "sup_8601448fc879",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "branded",
+        "id": "prod_412dfaca6329",
+        "label": "Decorative Paints",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "commodity",
+        "id": "prod_bb58dfdc102e",
+        "label": "Portland Cement",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "energy",
+        "id": "rm_bc9bdfec595f",
+        "label": "Coal",
+        "type": "raw_material",
+        "unit": "tonne"
+      }
+    },
+    {
+      "data": {
+        "category": "metal",
+        "id": "rm_80a22a4ad1aa",
+        "label": "Steel Tyre Cord",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "energy",
+        "id": "rm_b09c577bf2a4",
+        "label": "Crude Oil",
+        "type": "raw_material",
+        "unit": "barrel"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_cd7777661edc",
+        "label": "Excipients",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_4ecdeb046241",
+        "label": "Synthetic Rubber",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_976ed4c93cb4",
+        "label": "Solvents",
+        "type": "raw_material",
+        "unit": "litre"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_abf78cd5f9ac",
+        "label": "cust_abf78cd5f9ac",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_6f6ac59d154d",
+        "label": "cust_6f6ac59d154d",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "generic",
+        "id": "prod_24bcf6878b40",
+        "label": "Generic Formulations",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "agricultural",
+        "id": "rm_2f96b8c40bd3",
+        "label": "Natural Rubber",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "id": "sup_4a9682cf4c67",
+        "label": "sup_4a9682cf4c67",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "commodity",
+        "id": "prod_b5f0fce095c6",
+        "label": "Ready-Mix Concrete",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "mineral",
+        "id": "rm_4bef8459616e",
+        "label": "Limestone",
+        "type": "raw_material",
+        "unit": "tonne"
+      }
+    },
+    {
+      "data": {
+        "category": "branded",
+        "id": "prod_375cbbec4aa1",
+        "label": "Passenger Car Tyres",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "specialty",
+        "id": "prod_4bf07fa4792a",
+        "label": "Industrial Paints",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_146f08f308ab",
+        "label": "Titanium Dioxide",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "id": "sec_3b14bc04acf4",
+        "label": "sec_3b14bc04acf4",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "id": "sup_162cfa809729",
+        "label": "sup_162cfa809729",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_71666b2f1317",
+        "label": "Paint Additives",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_8669250e99a8",
+        "label": "Active Pharmaceutical Ingredient (API)",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "branded",
+        "id": "prod_6334cde9176d",
+        "label": "Commercial Vehicle Tyres",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "category": "generic",
+        "id": "prod_fa7af8a0633f",
+        "label": "APIs (Active Pharmaceutical Ingredients)",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_58ab21aa10f6",
+        "label": "cust_58ab21aa10f6",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_df202fc5ac8d",
+        "label": "Key Starting Material (KSM)",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "mineral",
+        "id": "rm_4479b44520fe",
+        "label": "Gypsum",
+        "type": "raw_material",
+        "unit": "tonne"
+      }
+    },
+    {
+      "data": {
+        "category": "material",
+        "id": "rm_aa7fa91c877c",
+        "label": "Pharma Packaging",
+        "type": "raw_material",
+        "unit": "unit"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_e18f6b6f95d4",
+        "label": "cust_e18f6b6f95d4",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "branded",
+        "id": "prod_59ace7d6c702",
+        "label": "Two-Wheeler Tyres",
+        "type": "product"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_6002e9b3248a",
+        "label": "cust_6002e9b3248a",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_c39c073ddfae",
+        "label": "Pigments",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_58a0d068cc5f",
+        "label": "Resins",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "category": "chemical",
+        "id": "rm_78b2af6f472d",
+        "label": "Nylon Tyre Cord",
+        "type": "raw_material",
+        "unit": "kg"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_5f8f7d005c5a",
+        "label": "cust_5f8f7d005c5a",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "id": "sec_715f10dd9baf",
+        "label": "sec_715f10dd9baf",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "id": "cust_27da4341b5e5",
+        "label": "cust_27da4341b5e5",
+        "type": "unknown"
+      }
+    },
+    {
+      "data": {
+        "category": "mineral",
+        "id": "rm_55fdddaa4c42",
+        "label": "Fly Ash",
+        "type": "raw_material",
+        "unit": "tonne"
+      }
+    }
+  ]
+}
