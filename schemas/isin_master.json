@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://investorlens.dev/schemas/isin_master.json",
+  "title": "ISINMaster",
+  "description": "Canonical identity anchor. One row per ISIN, normalized across NSE/BSE/Debt/ETF.",
+  "type": "object",
+  "required": ["id", "isin", "company_name", "provenance"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^isin_[a-f0-9]{12}$" },
+    "isin": { "type": "string", "minLength": 12, "maxLength": 16 },
+    "company_name": { "type": "string" },
+    "nse_symbol": { "type": ["string", "null"] },
+    "bse_code": { "type": ["string", "null"] },
+    "security_type": {
+      "type": "string",
+      "enum": ["equity", "debt", "preference", "etf", "index", "reit", "invit", "other"],
+      "default": "equity"
+    },
+    "exchange": { "type": "string", "enum": ["NSE", "BSE", "NSE+BSE", "OTHER"], "default": "NSE+BSE" },
+    "sector": { "type": ["string", "null"] },
+    "industry": { "type": ["string", "null"] },
+    "active": { "type": "boolean", "default": true },
+    "face_value": { "type": ["number", "string", "null"] },
+    "effective_from": { "type": ["string", "null"], "format": "date" },
+    "effective_to": { "type": ["string", "null"], "format": "date" },
+    "provenance": { "$ref": "provenance.json" }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://investorlens.dev/schemas/company.json",
+  "title": "Company",
+  "description": "A real-world legal entity listed on Indian exchanges. Anchor: ISIN if present, else name+nse_symbol.",
+  "type": "object",
+  "required": ["id", "name", "provenance"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^co_[a-f0-9]{12}$" },
+    "name": { "type": "string", "minLength": 1 },
+    "isin": { "type": ["string", "null"], "minLength": 12, "maxLength": 16 },
+    "nse_symbol": { "type": ["string", "null"] },
+    "bse_code": { "type": ["string", "null"] },
+    "sector_id": { "type": ["string", "null"] },
+    "industry_id": { "type": ["string", "null"] },
+    "incorporated_on": { "type": ["string", "null"], "format": "date" },
+    "active": { "type": "boolean", "default": true },
+    "provenance": { "$ref": "provenance.json" }
+  }
+}
