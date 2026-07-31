@@ -1,0 +1,28 @@
+{
+  "edge_stats": {
+    "final_counts": {
+      "hypothesized": 60,
+      "weakly_supported": 14
+    },
+    "total": 74,
+    "unchanged": 74,
+    "upgraded_to_validated": 0,
+    "upgraded_to_weakly_supported": 0
+  },
+  "exposure_stats": {
+    "final_counts": {
+      "hypothesized": 7,
+      "weakly_supported": 6
+    },
+    "total": 13,
+    "unchanged": 13,
+    "upgraded_to_validated": 0,
+    "upgraded_to_weakly_supported": 0
+  },
+  "final_counts": {
+    "hypothesized": 67,
+    "weakly_supported": 20
+  },
+  "principle": "Never present a hypothesis as an established fact. Every relationship has an explicit validation status.",
+  "total_relationships": 87
+}
